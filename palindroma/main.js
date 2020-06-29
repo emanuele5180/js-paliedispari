@@ -9,7 +9,7 @@ var parolaArray = parolaInserita.split("");
 
 console.log(parolaArray);
 
-var contrario = parolaArray.reverse("").join();
+var contrario = parolaArray.reverse("");
 console.log(contrario);
 
 
