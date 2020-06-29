@@ -14,7 +14,7 @@ console.log(contrario);
 
 
 //Creare una funzione per capire se la parola inserita è palindroma
-if (contrario[""] === parolaArray[""]){
+if (contrario === parolaArray){
   console.log("vero");
 
 }else {
